@@ -174,7 +174,7 @@ li {
 }
 .crab__button {
     color: #001e64;
-   background-color: transparent;
+    background-color: transparent;
 }
 /* -----shells----- */
 
@@ -210,7 +210,7 @@ li {
     max-width: 420px;
 }
 
-.info__texts-top p{
+.info__texts-top p {
     margin-bottom: 30px;
 }
 
@@ -230,7 +230,6 @@ li {
 .info__bottom {
     display: flex;
     column-gap: 177px;
-    
 }
 .info__text-one {
     margin-bottom: 50px;
@@ -245,12 +244,11 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 .advertisement__img {
     width: 800px;
-    height:310px;
+    height: 310px;
 }
 .advertisement__text {
     width: 700px;
@@ -261,22 +259,12 @@ li {
 /* ------contacts------ */
 
 .contacts {
+    display: flex;
+    column-gap: 20px;
     padding-bottom: 100px;
     padding-top: 100px;
 }
 
-.contacts__container {
-   display: flex;
-
-   column-gap: 20px;
-}
-
-.contacts__img {
-    width: 70%;
-    height: 350px;
-}
-.container {
-}
 .contacts__info {
     padding-top: 30px;
 }
@@ -284,15 +272,12 @@ li {
     margin-bottom: 30px;
     font-size: 18px;
     line-height: 1.3;
-    color: #001E64;
-}
-.title {
-}
-.contacts__links {
-    
+    color: #001e64;
 }
 
-.contacts__links a{
+.contacts__links a {
     margin-bottom: 30px;
     display: block;
+    font-size: 18px;
+    color: #000;
 }
